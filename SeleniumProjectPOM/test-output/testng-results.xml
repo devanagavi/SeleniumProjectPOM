@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33722" started-at="2018-05-23T07:49:48Z" finished-at="2018-05-23T07:50:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33722" started-at="2018-05-23T07:49:48Z" finished-at="2018-05-23T07:50:22Z">
+      <class name="testSuite.LoginPageSuite">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testSuite.LoginPageSuite@77caeb3e]" name="beforeTest" is-config="true" duration-ms="17164" started-at="2018-05-23T07:49:48Z" finished-at="2018-05-23T07:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyWithValidLoginCredentials()[pri:0, instance:testSuite.LoginPageSuite@77caeb3e]" name="verifyWithValidLoginCredentials" duration-ms="6243" started-at="2018-05-23T07:50:05Z" finished-at="2018-05-23T07:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithValidLoginCredentials -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testSuite.LoginPageSuite@77caeb3e]" name="afterTest" is-config="true" duration-ms="127" started-at="2018-05-23T07:50:11Z" finished-at="2018-05-23T07:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testSuite.LoginPageSuite@77caeb3e]" name="beforeTest" is-config="true" duration-ms="8576" started-at="2018-05-23T07:50:11Z" finished-at="2018-05-23T07:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyWithoutValidLoginCredentials()[pri:0, instance:testSuite.LoginPageSuite@77caeb3e]" name="verifyWithoutValidLoginCredentials" duration-ms="1480" started-at="2018-05-23T07:50:20Z" finished-at="2018-05-23T07:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithoutValidLoginCredentials -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testSuite.LoginPageSuite@77caeb3e]" name="afterTest" is-config="true" duration-ms="99" started-at="2018-05-23T07:50:21Z" finished-at="2018-05-23T07:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testSuite.LoginPageSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
